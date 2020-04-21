@@ -1,0 +1,1 @@
+# Evenstore dotnet Sdk
